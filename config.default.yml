@@ -13,8 +13,8 @@ mail:
   - me@example.com
   starttls:
     enabled: 'false'
-    user: ''
-    password: ''
+    user: 'caner@akges.com'
+    password: '12081946'
 renaming:
   '10000000001': My Inverter 1
 
